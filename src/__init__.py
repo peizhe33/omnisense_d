@@ -1,0 +1,1 @@
+"""OmniSense Part D: forecasting and precooling recommendation (synthetic demo)."""

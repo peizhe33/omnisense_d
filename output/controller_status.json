@@ -1,0 +1,8 @@
+{
+  "zone_id": "ZONE_01",
+  "mode": "OCCUPIED",
+  "reason": "Live occupancy detected. Occupancy overrides the forecast (expected reuse 14:00, planned restart 13:30).",
+  "evaluated_at": "2026-10-20T14:10:00+08:00",
+  "occupancy_detected": true,
+  "forecast_status": "ACTIVE"
+}

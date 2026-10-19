@@ -1,0 +1,4 @@
+# Runtime code uses only the Python standard library.
+# tzdata is needed only on Windows (no system timezone database for zoneinfo).
+tzdata; sys_platform == "win32"
+pytest>=7.0

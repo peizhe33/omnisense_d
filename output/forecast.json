@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0",
+  "zone_id": "ZONE_01",
+  "source": "SYNTHETIC_HISTORY",
+  "prediction_method": "HISTORICAL_MEDIAN",
+  "next_use_time": "2026-10-20T14:00:00+08:00",
+  "next_use_window_start": "2026-10-20T13:50:00+08:00",
+  "next_use_window_end": "2026-10-20T14:10:00+08:00",
+  "planned_restart_time": "2026-10-20T13:30:00+08:00",
+  "estimated_cooling_minutes": 30,
+  "cooling_model": "ASSUMED_COOLING_RESPONSE",
+  "forecast_quality": "STRONG",
+  "record_count": 5,
+  "spread_minutes": 9,
+  "issued_at": "2026-10-20T12:40:00+08:00",
+  "expires_at": "2026-10-20T14:15:00+08:00",
+  "status": "ACTIVE",
+  "message": "Predicted reuse 14:00 from SYNTHETIC history; restart planned 30 min earlier using the assumed cooling model."
+}
